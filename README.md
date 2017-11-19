@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a notebook app you can use to write down notes easily when you are not using your own personal computer and don't fancy logging into email all the time. 
 
-Things you may want to cover:
+Rails 5.1.4, Ruby version 2.3.1p112
+BUNDLED WITH 1.16.0.pre.3
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# SUKItheFox
